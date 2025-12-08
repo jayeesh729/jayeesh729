@@ -1,12 +1,3 @@
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://github.com/jayeesh729">
-    <img src="https://readme-typing-svg.demolab.com/?size=24&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Jayeesh+Vasantha+Kumar;Frontend+Developer+%7C+Python+%7C+ML+Enthusiast;Always+learning+and+building+cool+projects+🚀" alt="Typing SVG" />
-  </a>
-</p>
-
-
-
 ---
 
 ## Hi there 👋 I'm Jayeesh Vasantha Kumar  
