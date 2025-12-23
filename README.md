@@ -2,8 +2,8 @@
 
 ## Hi there 👋 I'm Jayeesh Vasantha Kumar  
 
-🎓 Final-year student | 💻 Frontend & Python Developer | 📊 Machine Learning Enthusiast  
-🇮🇳 From India  
+🎓 Pre-Final Year IT Student | AI/ML & Full-Stack Developer | Cybersecurity  
+🚀 Research & Industry Aspirant | 🇮🇳 India 
 
 ---
 <p align="center">
@@ -13,13 +13,17 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 I’m currently working on **Machine Learning & Web Development projects**
-- 🌱 I’m currently learning **Data Science, Deep Learning, and Django**
-- 👯 I’m looking to collaborate on **Open Source & ML Projects**
-- 🤔 I’m looking for help with **Advanced ML Deployment**
-- 💬 Ask me about **Python, Java, Data Science, ML, Django, Git**
-- 📫 How to reach me: **(Add your email / LinkedIn)**
-- ⚡ Fun fact: I love solving coding challenges and exploring new tech 🚀
+
+I’m a **Pre-Final Year IT student** with a strong interest in building intelligent systems and scalable web applications.  
+I enjoy working at the intersection of **AI/ML, Full-Stack Development, and Cybersecurity**, where problem-solving meets real-world impact.
+
+- 🔭 Currently building **Machine Learning and Full-Stack projects** with a focus on performance and usability  
+- 🌱 Learning **Deep Learning and Data Science** to strengthen my foundations  
+- 🔍 Interested in **research-driven problem solving**, especially in ML and security domains  
+- 🤝 Open to collaborating on **open-source, research, and impactful tech projects**  
+- 💬 Comfortable discussing **Python, Java, ML, Web Development, Git, and system design**  
+- ⚡ I enjoy breaking down complex problems and turning ideas into working solutions 🚀
+
 
 ---
 
@@ -46,7 +50,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=jayeesh729&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jayeesh729&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
