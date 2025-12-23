@@ -6,6 +6,11 @@
 🇮🇳 From India  
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&pause=1000&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Developer;Full+Stack+Developer;IT+Student;" alt="Typing SVG" />
+</p>
+
+---
 
 ### 👨‍💻 About Me
 - 🔭 I’m currently working on **Machine Learning & Web Development projects**
